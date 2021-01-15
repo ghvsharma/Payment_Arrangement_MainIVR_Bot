@@ -75,7 +75,7 @@
                     {
                         "redirect" : {
                             "method" : "POST",
-                            "uri" : "https://paymentarrangement-8662.twil.io/PaymentArrangement"
+                            "uri" : "https://paymentarrangement-9910-dev.twil.io/PaymentArrangement"
                         }
                     }
                 ]
@@ -128,7 +128,7 @@
                     {
                         "redirect" : {
                             "method" : "POST",
-                            "uri" : "https://paymentarrangement-8662.twil.io/AgentTransfer"
+                            "uri" : "https://paymentarrangement-9910-dev.twil.io/AgentTransfer"
                         }
                     }
                 ]
@@ -156,7 +156,7 @@
                     {
                         "redirect" : {
                             "method" : "POST",
-                            "uri" : "https://paymentarrangement-8662.twil.io/PaymentPlanAnnounce"
+                            "uri" : "https://paymentarrangement-9910-dev.twil.io/PaymentPlanAnnounce"
                         }
                     }
                 ]
@@ -171,7 +171,7 @@
                     {
                         "redirect" : {
                             "method" : "POST",
-                            "uri" : "https://paymentarrangement-8662.twil.io/CalculateAnnouncePayment"
+                            "uri" : "https://paymentarrangement-9910-dev.twil.io/CalculateAnnouncePayment"
                         }
                     }
                 ]
