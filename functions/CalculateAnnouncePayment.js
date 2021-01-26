@@ -79,11 +79,11 @@ exports.handler =async function(context, event, callback) {
   //let RedirectURL="";
   // if(NP==1)
   // {
-  //   RedirectURL="https://paymentarrangement-8662.twil.io/GetStartDate";
+  //   RedirectURL="https://paymentarrangement-9910-dev.twil.io/GetStartDate";
   // }
   // else
   // {
-  //   RedirectURL="https://paymentarrangement-8662.twil.io/PaymentFrequency";
+  //   RedirectURL="https://paymentarrangement-9910-dev.twil.io/PaymentFrequency";
   // }
     Collect= {
 								"name": "collect_Payment_Arrangement",
@@ -118,7 +118,7 @@ exports.handler =async function(context, event, callback) {
 								"on_complete": {
 								"redirect": {
                                         "method": "POST",
-                                        "uri": "https://paymentarrangement-8662.twil.io/PaymentFrequency"
+                                        "uri": "https://paymentarrangement-9910-dev.twil.io/PaymentFrequency"
                                       }
 												}
 							};  
